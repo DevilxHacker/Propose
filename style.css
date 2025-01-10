@@ -3,7 +3,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-
+margin: 0px;
   background: linear-gradient(rgb(0, 249, 236), rgb(71, 150, 229));
 }
 
